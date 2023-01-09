@@ -5,22 +5,22 @@
     "quantity": "на две порции",
     "ingredients": [
       {
-        "cottageCheese": "Творог",
+        "nameOfTheIngredient": "Творог",
         "quantity": 350,
         "measure": "г."
       },
       {
-        "chickenEgg": "Куриное яйцо",
+        "nameOfTheIngredient": "Куриное яйцо",
         "quantity": 2,
         "measure": "шт."
       },
       {
-        "wheatFlour": "Пшеничная мука",
+        "nameOfTheIngredient": "Пшеничная мука",
         "quantity": 6,
         "measure": "ст. л."
       },
       {
-        "sugar": "Сахар",
+        "nameOfTheIngredient": "Сахар",
         "quantity": 2,
         "measure": "ст. л."
       }
@@ -40,42 +40,42 @@
     "quantity": "на одну порцию",
     "ingredients": [
       {
-        "spices": "Специи",
+        "nameOfTheIngredient": "Специи",
         "quantity": 0,
         "measure": "по вкусу"
       },
       {
-        "cannedBeans": "Консервированная фасоль",
+        "nameOfTheIngredient": "Консервированная фасоль",
         "quantity": 400,
         "measure": "г."
       },
       {
-        "lemon": "Лимон",
+        "nameOfTheIngredient": "Лимон",
         "quantity": 1,
         "measure": "шт."
       },
       {
-        "garlic": "Чеснок",
+        "nameOfTheIngredient": "Чеснок",
         "quantity": 2,
         "measure": "зубчика"
       },
       {
-        "oliveOil": "Оливковое масло",
+        "nameOfTheIngredient": "Оливковое масло",
         "quantity": 50,
         "measure": "мл."
       },
       {
-        "arugula": "Рукола",
+        "nameOfTheIngredient": "Рукола",
         "quantity": 100,
         "measure": "г."
       },
       {
-        "cottageCheese": "Творожный сыр",
+        "nameOfTheIngredient": "Творожный сыр",
         "quantity": 200,
         "measure": "г."
       },
       {
-        "redOnion": "Красный лук",
+        "nameOfTheIngredient": "Красный лук",
         "quantity": 50,
         "measure": "г."
       }
@@ -92,52 +92,52 @@
     "quantity": "на четыре порции",
     "ingredients": [
       {
-        "redlentils": "Красная чечевица",
+        "nameOfTheIngredient": "Красная чечевица",
         "quantity": 150,
         "measure": "г."
       },
       {
-        "onion": "Репчатый лук",
+        "nameOfTheIngredient": "Репчатый лук",
         "quantity": 1,
         "measure": "головка"
       },
       {
-        "carrot": "Морковь",
+        "nameOfTheIngredient": "Морковь",
         "quantity": 1,
         "measure": "шт."
       },
       {
-        "SunflowerOil": "Подсолнечное масло",
+        "nameOfTheIngredient": "Подсолнечное масло",
         "quantity": 30,
         "measure": "мл."
       },
       {
-        "butter": "Сливочное масло",
+        "nameOfTheIngredient": "Сливочное масло",
         "quantity": 15,
         "measure": "г."
       },
       {
-        "wheatFlour": "Пшеничная мука",
+        "nameOfTheIngredient": "Пшеничная мука",
         "quantity": 30,
         "measure": "г."
       },
       {
-        "cream33": "Сливки 33%",
+        "nameOfTheIngredient": "Сливки 33%",
         "quantity": 50,
         "measure": "мл."
       },
       {
-        "spices": "Специи",
+        "nameOfTheIngredient": "Специи",
         "quantity": 0,
         "measure": "по вкусу"
       },
       {
-        "lemon": "Лимон ",
+        "nameOfTheIngredient": "Лимон ",
         "quantity": 0.5,
         "measure": "шт."
       },
       {
-        "mint": "Мята",
+        "nameOfTheIngredient": "Мята",
         "quantity": 0,
         "measure": "по вкусу"
       }
@@ -155,37 +155,37 @@
     "quantity": "на одну порцию",
     "ingredients": [
       {
-        "tomatoes": "Помидоры",
+        "nameOfTheIngredient": "Помидоры",
         "quantity": 3,
         "measure": "шт."
       },
       {
-        "kingPrawns": "Королевские креветки",
+        "nameOfTheIngredient": "Королевские креветки",
         "quantity": 300,
         "measure": "г."
       },
       {
-        "greenSalad": "Зеленый салат",
+        "nameOfTheIngredient": "Зеленый салат",
         "quantity": 1,
         "measure": "пучок"
       },
       {
-        "cucumbers": "Огурцы ",
+        "nameOfTheIngredient": "Огурцы ",
         "quantity": 2,
         "measure": "шт."
       },
       {
-        "spices": "Специи",
+        "nameOfTheIngredient": "Специи",
         "quantity": 0,
         "measure": "по вкусу"
       },
       {
-        "mayonnaise": "Майонез",
+        "nameOfTheIngredient": "Майонез",
         "quantity": 0,
         "measure": "по вкусу"
       },
       {
-        "sesameSeeds": "Кунжутные семечки",
+        "nameOfTheIngredient": "Кунжутные семечки",
         "quantity": 3,
         "measure": "ст. ложки"
       }
@@ -204,37 +204,37 @@
     "quantity": "на одну порцию",
     "ingredients": [
       {
-        "cottageCheese": "Творог",
+        "nameOfTheIngredient": "Творог",
         "quantity": 250,
         "measure": "г."
       },
       {
-        "chickenEgg": "Куриное яйцо",
+        "nameOfTheIngredient": "Куриное яйцо",
         "quantity": 3,
         "measure": "шт."
       },
       {
-        "wheatFlour": "Пшеничная мука",
+        "nameOfTheIngredient": "Пшеничная мука",
         "quantity": 8,
         "measure": "ст. л."
       },
       {
-        "sugarAndSalt": "Сахар и соль",
+        "nameOfTheIngredient": "Сахар и соль",
         "quantity": 0,
         "measure": "по вкусу"
       },
       {
-        "oliveOil": "Оливковое масло",
+        "nameOfTheIngredient": "Оливковое масло",
         "quantity": 0,
         "measure": "по вкусу"
       },
       {
-        "soda": "Сода ",
+        "nameOfTheIngredient": "Сода ",
         "quantity": 0.5,
         "measure": "ч. ложки"
       },
       {
-        "powderedSugarWithVanilla": "Сахарная пудра с ванилью",
+        "nameOfTheIngredient": "Сахарная пудра с ванилью",
         "quantity": 0,
         "measure": "по вкусу"
       }
